@@ -38,3 +38,8 @@ gem 'rails_12factor'
 
 # To use debugger
 # gem 'debugger'
+
+gem 'data_mapper'
+gem 'sinatra'
+
+
